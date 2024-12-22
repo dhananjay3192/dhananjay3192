@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhananjay Patania
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack, Nextjs and GraphQl.
-- 💞️ I’m looking to collaborate on MERN STACK Projects
+- 👀 I have 4+ years of work experience in web development
+- 🌱 My technical skills include ReactJs, NodeJs along with CI/CD skills.
+- 💞️ I’m looking to collaborate on Javascript Full Stack Projects
 - 📫 Contact me on dhananjay.patania@gmail.com
 
 <!---
